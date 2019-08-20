@@ -5,6 +5,7 @@
 
 Criar uma aplicação que implemente um CRUD de Hotéis.
 O Hotel contém as seguintes características:
+
 - Nome
 - Resumo do Hotel (Descrição)
 - Avaliação (até 5 estrelas)
@@ -24,6 +25,7 @@ O Hotel contém as seguintes características:
 #### Back-end
 
 - ASP.NET (.NET Framework 4.6.2+ ou Core 2+, tanto faz)
+- Web API 2
 - Banco de dados (preferencialmente MySQL)
 
 #### O que esperamos da aplicação implementada
@@ -32,6 +34,10 @@ O Hotel contém as seguintes características:
 - Código bem estruturado
 - Testes Unitários
 - Princípios SOLID
+
+#### Diferencial
+
+- Usar [React JS](https://reactjs.org) com [TDD](https://pt.wikipedia.org/wiki/Test_Driven_Development) no front-end
 
 #### Ao finalizar o teste
 
