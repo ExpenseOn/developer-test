@@ -39,7 +39,13 @@ O Hotel contém as seguintes características:
 
 - Usar [React JS](https://reactjs.org) com [TDD](https://pt.wikipedia.org/wiki/Test_Driven_Development) no front-end
 
+#### Ao iniciar o teste
+
+- Estipule uma estimativa de horas para desenvolver a aplicação e envie um e-mail para devs@expenseon.com com o título 
+`[Teste DotNet] Estimativa`.
+
 #### Ao finalizar o teste
 
-- Salve o teste em um arquivo compactado (zip/rar de preferência) e salve em algum drive. Depois envie somente o link para diego@expenseon.com.
+- Salve o teste em um arquivo compactado (zip/rar de preferência) e salve em algum drive. Depois envie somente o link para devs@expenseon.com com o título 
+`[Teste DotNet] Final`.
 - Enviar manual de implantação da aplicação juntamente com scripts SQL.
