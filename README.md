@@ -12,7 +12,7 @@ O Hotel contém as seguintes características:
 - Endereço
 - Comodidades (Estacionamento, Piscina, Sauna, Wi-fi, Restaurante, Bar, etc.)
 
-#### A aplicação não precisa ter autenticação mas deve contemplar as seguintes funcionalidades:
+#### A aplicação não precisa ter autenticação mas deve contemplar algumas funcionalidades:
 
 - Inserir, Apagar e Editar Hotéis.
 - Listar os Hotéis existentes no banco de dados
@@ -24,25 +24,20 @@ O Hotel contém as seguintes características:
 
 #### Back-end
 
-- ASP.NET (.NET Framework 4.6.2+ ou Core 2+, tanto faz)
+- ASP.NET (.NET Framework 4+ ou Core 2+, tanto faz)
 - Web API 2
 - Banco de dados (preferencialmente MySQL)
 
 #### O que esperamos da aplicação implementada
 
 - Organizada
-- Código bem estruturado
-- Testes Unitários
-- Princípios SOLID
+- Código bem estruturado com uso de boas práticas de desenvolvimento
 
 #### Diferencial
 
-- Usar [React JS](https://reactjs.org) com [TDD](https://pt.wikipedia.org/wiki/Test_Driven_Development) no front-end
-
-#### Ao iniciar o teste
-
-- Estipule uma estimativa de horas para desenvolver a aplicação e envie um e-mail para devs@expenseon.com com o título 
-`[Teste DotNet] Estimativa`.
+- SOLID
+- Validação no front-end
+- Testes Unitários
 
 #### Ao finalizar o teste
 
